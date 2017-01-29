@@ -204,6 +204,10 @@ p {
   margin-top: 0;
   margin-bottom: 0;
   font-weight: 500;
+  
+}
+.main-wrapper .job-title .ul {
+list-style: round;
 }
 .main-wrapper .time {
   position: absolute;
